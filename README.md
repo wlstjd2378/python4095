@@ -11,6 +11,9 @@
 ## 사용한 공공데이터 
 [데이터보기]
 http://apis.data.go.kr/B552061/frequentzoneLg/getRestFrequentzoneLg?serviceKey=nBR6ds%2BFTLtKBfkc9qEKhBBGdZF09DnpkSRWSKTyxiHp%2BRVBtJbWjTQMqvvMb%2FVf0TGceYhCeGyvpHtJAhIlJA%3D%3D&searchYearCd=2017&siDo=26&guGun=230&type=xml&numOfRows=10&pageNo=1
+http://apis.data.go.kr/B552061/jaywalking/getRestJaywalking?serviceKey=nBR6ds%2BFTLtKBfkc9qEKhBBGdZF09DnpkSRWSKTyxiHp%2BRVBtJbWjTQMqvvMb%2FVf0TGceYhCeGyvpHtJAhIlJA%3D%3D&searchYearCd=2015&siDo=11&guGun=320&type=xml&numOfRows=10&pageNo=1
+http://apis.data.go.kr/B552061/frequentzoneLgrViolt/getRestFrequentzoneLgrViolt?serviceKey=nBR6ds%2BFTLtKBfkc9qEKhBBGdZF09DnpkSRWSKTyxiHp%2BRVBtJbWjTQMqvvMb%2FVf0TGceYhCeGyvpHtJAhIlJA%3D%3D&searchYearCd=2017&siDo=11&guGun=680&type=xml&numOfRows=10&pageNo=1
+
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
 
