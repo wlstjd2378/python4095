@@ -10,7 +10,7 @@
 
 ## 사용한 공공데이터 
 [데이터보기]
-L3B1YnIvcG90L215cC9Jcm9zTXlQYWdlL29wZW5EZXZEZXRhaWxQYWdlJEBeMDgyTTAwMDAxMzBeTTAwMDAxMzUkQF5wdWJsaWNEYXRhRGV0YWlsUGs9dWRkaTo1MTQwOTViOC04YjZiLTQxOWItYTgxYy1lOTM0Y2JmODE2ZWMkQF5wcmN1c2VSZXFzdFNlcU5vPTc0NDI4MTIkQF5yZXFzdFN0ZXBDb2RlPVNUQ0QwMQ
+http://apis.data.go.kr/B552061/frequentzoneLg/getRestFrequentzoneLg?serviceKey=nBR6ds%2BFTLtKBfkc9qEKhBBGdZF09DnpkSRWSKTyxiHp%2BRVBtJbWjTQMqvvMb%2FVf0TGceYhCeGyvpHtJAhIlJA%3D%3D&searchYearCd=2017&siDo=26&guGun=230&type=xml&numOfRows=10&pageNo=1
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
 
